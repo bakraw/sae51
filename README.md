@@ -1,4 +1,4 @@
-# Script de gestion des Mmchines virtuelles VirtualBox
+# Script de gestion de machines virtuelles VirtualBox
 
 Ce script Bash permet de gérer les machines virtuelles dans VirtualBox en offrant des fonctionnalités pour créer, démarrer, arrêter, supprimer et lister les machines virtuelles. Il configure également la machine virtuelle pour démarrer automatiquement à partir d'une image ISO Debian.
 
